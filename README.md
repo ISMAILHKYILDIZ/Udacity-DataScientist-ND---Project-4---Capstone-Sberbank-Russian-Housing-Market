@@ -11,12 +11,12 @@
 - seaborn
 
 ## Motivation
-Basicly the problem is a well known type of regression problem in Machine Learning t predict house prices based house properties. Some features of individual house like room number, square feet will be used to predict the house prices.
+Basicly the problem is a well known type of regression problem in Machine Learning to predict house prices based house properties. Some features of individual house like room number, square feet will be used to predict the house prices.
 
 
 ## Project Content
 - Data
-  - ./input folder contains train and test data in order to use in the project.
+  - ./input/ folder contains train and test data in order to use in the project.
 - Models
   - Jupyter notebook file is organized as a single code in order to explore data, wrangle data and generate models.
 - Report
@@ -29,6 +29,8 @@ https://medium.com/@ismail.hk.yildiz/sberbank-russian-housing-price-prediction-1
 
 
 
+## Conclusion
+As a summary of the project, after basic EDA and feature enginering I have performed 5 basic iterations to reach the final model. In each iteration, we can say that results got better step by step as depicted below.
 
 
 ## Acknowledgements
