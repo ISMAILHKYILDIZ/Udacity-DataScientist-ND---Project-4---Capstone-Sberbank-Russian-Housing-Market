@@ -25,6 +25,7 @@ Basicly the problem is a well known type of regression problem in Machine Learni
 
 ## Article
 Medium Article can be read from below link:
+
 https://medium.com/@ismail.hk.yildiz/sberbank-russian-housing-price-prediction-1f2b2d53b5dd
 
 
@@ -32,6 +33,7 @@ https://medium.com/@ismail.hk.yildiz/sberbank-russian-housing-price-prediction-1
 ## Conclusion
 As a summary of the project, after basic EDA and feature enginering I have performed 5 basic iterations to reach the final model. In each iteration, we can say that results got better step by step as depicted below.
 
+![Alt text](https://miro.medium.com/max/1400/1*yCp8j7jflOCXiESIc22beg.jpeg "Screenshot1")
 
 ## Acknowledgements
 I wish to thank Sberbank for dataset, and thank Udacity for advice and review.
